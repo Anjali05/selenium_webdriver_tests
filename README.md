@@ -1,1 +1,1 @@
-This consists of simple tests using selenium webdriver.
+This consists of simple test scripts using selenium webdriver.
